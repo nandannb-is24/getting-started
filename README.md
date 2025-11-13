@@ -1,2 +1,6 @@
-# getting-started
-first github session
+first github repository
+
+committing changes
+
+
+
