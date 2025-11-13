@@ -1,7 +1,6 @@
 first github repository
-
-committing changes
-
+I think, therefore I am.
+committing changes...
 
 
 
